@@ -8,6 +8,7 @@ Passionate Mobile App Developer, Developing Optimized Robust Apps with Flutter.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [amjad.alikhan2025@gmail.com](mailto:amjad.alikhan2025@gmail.com)
+* ✉️  Visit my Portfolio (https://www.notion.so/Amjad-s-Portfolio-4d430d90691344cfada932aff5912e7b)
 * 🧠  I'm learning Next.JS
 
 <a href="https://www.x.com/amjad25" target="_blank" rel="noreferrer"><img
