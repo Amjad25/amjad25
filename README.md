@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amjad Ali Khan
+![image](https://github.com/user-attachments/assets/9cda9a4c-b32f-463c-b017-98435de151d8)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amjad Ali Khan
 ======================================================================================================================================
 
 Mobile Application Developer
@@ -30,7 +30,7 @@ src="https://img.shields.io/twitter/follow/amjad25?logo=twitter&style=for-the-ba
     </div>
   </a>
 
-  <a href="https://notion-project-link-2.com" style="text-decoration: none;">
+  <a href="https://transparent-kryptops-f94.notion.site/PETTO-Cross-Platform-Mobile-App-An-All-In-App-For-Pet-Lovers-372b0fd0aa964ff8934f9b434393f25f?pvs=25" style="text-decoration: none;">
     <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
       <img src="https://transparent-kryptops-f94.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F66b9e74c-cd78-4f34-8d36-c308af73a487%2Fbdae90bf-c902-4857-96f9-261de26e3223%2FScreenshot_2024-11-17_130959.png?table=block&id=bbebd2a1-5be7-4e36-94c0-dca6fdff7075&spaceId=66b9e74c-cd78-4f34-8d36-c308af73a487&width=1380&userId=&cache=v2" alt="Project 2" style="width: 100%; height: auto;" />
       <div style="padding: 16px; background: #f8f9fa;">
@@ -40,9 +40,9 @@ src="https://img.shields.io/twitter/follow/amjad25?logo=twitter&style=for-the-ba
     </div>
   </a>
 
-  <a href="https://notion-project-link-3.com" style="text-decoration: none;">
+  <a href="https://transparent-kryptops-f94.notion.site/Bowel-Movement-Tracker-Cross-Platform-Offline-First-App-c47192d80876464cb388e14a1b856a94?pvs=25" style="text-decoration: none;">
     <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
-      <img src="image-link-3.jpg" alt="Project 3" style="width: 100%; height: auto;" />
+      <img src="https://transparent-kryptops-f94.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F66b9e74c-cd78-4f34-8d36-c308af73a487%2Ff2328268-72ca-4bbe-b962-1ec78486bfd0%2Fimage.png?table=block&id=141d9cd0-9fc4-8003-b42a-fc7c5acc9968&spaceId=66b9e74c-cd78-4f34-8d36-c308af73a487&width=1380&userId=&cache=v2" alt="Project 3" style="width: 100%; height: auto;" />
       <div style="padding: 16px; background: #f8f9fa;">
         <h3 style="margin: 0; color: #333;">Book Tracker Reading Log</h3>
         <p style="margin: 8px 0; color: #555;">Offline-First Cross-Platform App</p>
