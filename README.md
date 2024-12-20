@@ -1,149 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amjad Ali Khan - Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5rem;
-        }
-        header h2 {
-            margin: 10px 0;
-            font-size: 1.5rem;
-            color: #555;
-        }
-        .contact {
-            text-align: center;
-            margin: 20px 0;
-        }
-        .contact a {
-            color: #0891b2;
-            text-decoration: none;
-        }
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-        }
-        .card {
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            overflow: hidden;
-            background-color: #fff;
-            transition: transform 0.3s, box-shadow 0.3s;
-        }
-        .card:hover {
-            transform: scale(1.02);
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-        }
-        .card img {
-            width: 100%;
-            height: auto;
-        }
-        .card-content {
-            padding: 16px;
-        }
-        .card-content h3 {
-            margin: 0;
-            color: #333;
-        }
-        .card-content p {
-            margin: 8px 0 0;
-            color: #555;
-        }
-        .skills, .badges {
-            margin: 40px 0;
-        }
-        .skills img, .badges img {
-            margin: 5px;
-        }
-        .badges img {
-            max-width: 100%;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Amjad Ali Khan</h1>
-            <h2>Mobile Application Developer</h2>
-            <p>Passionate Mobile App Developer, Developing Optimized Robust Apps with Flutter.</p>
-        </header>
+# Amjad Ali Khan
 
-        <div class="contact">
-            <p>
-                <strong>•</strong> 🌍  I'm based in Pakistan <br>
-                <strong>•</strong> ✉️ You can contact me at <a href="mailto:amjad.alikhan2025@gmail.com">amjad.alikhan2025@gmail.com</a> <br>
-                <strong>•</strong> ✉️ Visit my <a href="https://transparent-kryptops-f94.notion.site/Amjad-s-Portfolio-4d430d90691344cfada932aff5912e7b">Portfolio</a> <br>
-                <strong>•</strong> 🧠 I'm learning Next.JS
-            </p>
-            <a href="https://www.x.com/amjad25" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/twitter/follow/amjad25?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-            </a>
-        </div>
+## Mobile Application Developer
 
-        <section>
-            <h2>Featured Work</h2>
-            <div class="grid">
-                <a href="https://transparent-kryptops-f94.notion.site/AnaMee-Cross-Platform-Mobile-App-Complete-Solution-For-Health-Care-9d132e7129e24255a210879dcdafbcdb?pvs=25" class="card">
-                    <img src="https://transparent-kryptops-f94.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F66b9e74c-cd78-4f34-8d36-c308af73a487%2Fd2f36e7b-8e3a-4e5a-938c-9e0cd8d9477f%2FScreenshot_2024-11-17_130323.png?table=block&id=141d9cd0-9fc4-80c2-b634-c94bc459546b&spaceId=66b9e74c-cd78-4f34-8d36-c308af73a487&width=1380&userId=&cache=v2" alt="AnaMee">
-                    <div class="card-content">
-                        <h3>AnaMee Cross-Platform Mobile App</h3>
-                        <p>Complete Solution For Health Care</p>
-                    </div>
-                </a>
-                <a href="#" class="card">
-                    <img src="image2.png" alt="PETTO">
-                    <div class="card-content">
-                        <h3>PETTO Cross-Platform Mobile App</h3>
-                        <p>An All-In-One App For Pet Lovers</p>
-                    </div>
-                </a>
-                <a href="#" class="card">
-                    <img src="image3.png" alt="Book Tracker">
-                    <div class="card-content">
-                        <h3>Book Tracker Reading Log</h3>
-                        <p>Offline-First Cross-Platform App</p>
-                    </div>
-                </a>
-            </div>
-        </section>
+Passionate Mobile App Developer, Developing Optimized Robust Apps with Flutter.
 
-        <section class="skills">
-            <h2>Skills</h2>
-            <div>
-                <img src="dart.svg" alt="Dart" width="50" height="50">
-                <img src="python.svg" alt="Python" width="50" height="50">
-                <img src="flutter.svg" alt="Flutter" width="50" height="50">
-            </div>
-        </section>
+- 🌍  I'm based in Pakistan  
+- ✉️  You can contact me at [amjad.alikhan2025@gmail.com](mailto:amjad.alikhan2025@gmail.com)  
+- ✉️  Visit my [Portfolio](https://transparent-kryptops-f94.notion.site/Amjad-s-Portfolio-4d430d90691344cfada932aff5912e7b)  
+- 🧠  I'm learning Next.JS  
 
-        <section class="badges">
-            <h2>Badges</h2>
-            <div>
-                <img src="github-stats.png" alt="GitHub Stats">
-                <img src="github-streak.png" alt="GitHub Streak">
-                <img src="github-graph.png" alt="GitHub Commits Graph">
-            </div>
-        </section>
-    </div>
-</body>
-</html>
+[![Twitter Follow](https://img.shields.io/twitter/follow/amjad25?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.x.com/amjad25)
+
+---
+
+### Featured Work
+
+| ![AnaMee App](https://prod-files-secure.s3.us-west-2.amazonaws.com/66b9e74c-cd78-4f34-8d36-c308af73a487/d2f36e7b-8e3a-4e5a-938c-9e0cd8d9477f/Screenshot_2024-11-17_130323.png) | ![PETTO App](https://prod-files-secure.s3.us-west-2.amazonaws.com/66b9e74c-cd78-4f34-8d36-c308af73a487/bdae90bf-c902-4857-96f9-261de26e3223/Screenshot_2024-11-17_130959.png) |
+|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| **AnaMee Cross-Platform Mobile App** <br> Complete Solution For Health Care                                         | **PETTO Cross-Platform Mobile App** <br> An All-In-One App For Pet Lovers                                     |
+| ![Bowel Movement Tracker](https://prod-files-secure.s3.us-west-2.amazonaws.com/66b9e74c-cd78-4f34-8d36-c308af73a487/f2328268-72ca-4bbe-b962-1ec78486bfd0/image.png) | ![Book Tracker App](https://prod-files-secure.s3.us-west-2.amazonaws.com/66b9e74c-cd78-4f34-8d36-c308af73a487/f2328268-72ca-4bbe-b962-1ec78486bfd0/image.png) |
+| **Bowel Movement Tracker** <br> Comprehensive, Offline-First App                                                   | **Book Tracker Reading Log** <br> Cross-Platform Offline-First App                                           |
+
+---
+
+### Skills
+
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+</p>
+
+---
+
+### GitHub Stats
+
+![Amjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amjad25&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amjad25&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)  
+![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=amjad25&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
