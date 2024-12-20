@@ -20,9 +20,9 @@ src="https://img.shields.io/twitter/follow/amjad25?logo=twitter&style=for-the-ba
 ### Featured Work
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <a href="https://notion-project-link-1.com" style="text-decoration: none;">
+  <a href="https://transparent-kryptops-f94.notion.site/AnaMee-Cross-Platform-Mobile-App-Complete-Solution-For-Health-Care-9d132e7129e24255a210879dcdafbcdb?pvs=25" style="text-decoration: none;">
     <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
-      <img src="https://transparent-kryptops-f94.notion.site/AnaMee-Cross-Platform-Mobile-App-Complete-Solution-For-Health-Care-9d132e7129e24255a210879dcdafbcdb?pvs=25" alt="Project 1" style="width: 100%; height: auto;" />
+      <img src="https://transparent-kryptops-f94.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F66b9e74c-cd78-4f34-8d36-c308af73a487%2Fd2f36e7b-8e3a-4e5a-938c-9e0cd8d9477f%2FScreenshot_2024-11-17_130323.png?table=block&id=141d9cd0-9fc4-80c2-b634-c94bc459546b&spaceId=66b9e74c-cd78-4f34-8d36-c308af73a487&width=1380&userId=&cache=v2" alt="Project 1" style="width: 100%; height: auto;" />
       <div style="padding: 16px; background: #f8f9fa;">
         <h3 style="margin: 0; color: #333;">AnaMee Cross-Platform Mobile App</h3>
         <p style="margin: 8px 0; color: #555;">Complete Solution For Health Care</p>
@@ -32,7 +32,7 @@ src="https://img.shields.io/twitter/follow/amjad25?logo=twitter&style=for-the-ba
 
   <a href="https://notion-project-link-2.com" style="text-decoration: none;">
     <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
-      <img src="image-link-2.jpg" alt="Project 2" style="width: 100%; height: auto;" />
+      <img src="https://transparent-kryptops-f94.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F66b9e74c-cd78-4f34-8d36-c308af73a487%2Fbdae90bf-c902-4857-96f9-261de26e3223%2FScreenshot_2024-11-17_130959.png?table=block&id=bbebd2a1-5be7-4e36-94c0-dca6fdff7075&spaceId=66b9e74c-cd78-4f34-8d36-c308af73a487&width=1380&userId=&cache=v2" alt="Project 2" style="width: 100%; height: auto;" />
       <div style="padding: 16px; background: #f8f9fa;">
         <h3 style="margin: 0; color: #333;">PETTO Cross-Platform Mobile App</h3>
         <p style="margin: 8px 0; color: #555;">An All-In-One App For Pet Lovers</p>
