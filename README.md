@@ -14,6 +14,9 @@ Passionate Mobile App Developer, Developing Optimized Robust Apps with Flutter.
 ---
 
 ### Featured Work
+<p align="right">
+<a href="https://transparent-kryptops-f94.notion.site/Amjad-s-Portfolio-4d430d90691344cfada932aff5912e7b" target="_blank" rel="noreferrer">View More</a>
+</p>
 
 | ![AnaMee App](https://transparent-kryptops-f94.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F66b9e74c-cd78-4f34-8d36-c308af73a487%2Fd2f36e7b-8e3a-4e5a-938c-9e0cd8d9477f%2FScreenshot_2024-11-17_130323.png?table=block&id=141d9cd0-9fc4-80c2-b634-c94bc459546b&spaceId=66b9e74c-cd78-4f34-8d36-c308af73a487&width=1420&userId=&cache=v2) | ![PETTO App](https://transparent-kryptops-f94.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F66b9e74c-cd78-4f34-8d36-c308af73a487%2Fbdae90bf-c902-4857-96f9-261de26e3223%2FScreenshot_2024-11-17_130959.png?table=block&id=bbebd2a1-5be7-4e36-94c0-dca6fdff7075&spaceId=66b9e74c-cd78-4f34-8d36-c308af73a487&width=1420&userId=&cache=v2) |
 |:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
